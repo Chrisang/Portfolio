@@ -1,123 +1,152 @@
+# Christy Rajan — Analytics & AI Portfolio
+
+
+<!-- 
+--📍 Regina, Canada  
+--📧 christyrajan188@gmail.com  
+--🔗 LinkedIn: https://www.linkedin.com/in/christy-rajan  
+-->
+
+## 👋 Professional Summary
+
+Experienced data science and analytics professional with **12+ years** of expertise applying advanced analytics, machine learning, and AI to solve complex business problems across **retail, and healthcare** domains.
+
+Over **6 years of leadership experience** delivering end-to-end analytics products, mentoring teams, and supporting strategic decision-making. Strong background in building predictive models, BI solutions, and AI-enabled decision support systems under real-world data constraints.
+
+> ⚠️ Due to confidentiality agreements, all projects presented here use anonymized, synthetic, or public datasets. The **business problems, analytical approaches, and solution designs closely reflect real production work**.
+
 ---
-layout: default
+
+## 🧠 Core Skills
+
+- Machine Learning & Predictive Modeling
+- Time-Series & Deep Learning
+- NLP for Unstructured Data
+- Agentic AI
+- Business Intelligence & Metrics Design
+
+**Tools & Technologies:**  
+Python, R, SQL, AWS SageMaker, Teradata, Power BI, MicroStrategy, Looker Studio
+
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+## 📊 Selected Projects
 
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+### 1️⃣ Customer Lifetime Value (LTV) & Segmentation Framework  
+**Domain:** Retail & Loyalty Analytics  
 
 
-### Definition lists can be used with HTML syntax.
+**Problem**  
+Marketing teams require a scalable way to identify high-value customers and tailor offers using limited transactional history.
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+**Approach**
+- Designed an **advanced LTV modeling framework** using:
+  - Historical transaction behavior aggregated at monthly and daily levels
+  - Temporal features capturing purchase velocity, seasonality, and engagement decay
+  - Tenure, lifecycle stage, and behavioral stability indicators
+- Evaluated multiple predictive techniques (regression-based and machine-learning approaches) to balance:
+  - Accuracy
+  - Stability over time
+  - Business interpretability
+- Built the model to operate under **real-world constraints** such as incomplete histories and sparse customer activity
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+**Outcome**
+- Delivered forward-looking customer value estimates used for:
+  - Offer prioritization
+  - Retention strategy design
+  - Campaign ROI assessment
+- Enabled business teams to shift from rule-based segmentation to **predictive, value-based decision-making**
 
-```
-The final element.
-```
+
+**Skills Demonstrated:**  
+`Advanced Analytics · Predictive Modeling · Business Strategy`
+
+---
+
+### 2️⃣ Churn Prediction Using Time-Series Deep Learning  
+**Domain:** Customer Retention  
+
+**Problem**  
+Identify customers at risk of inactivity in the next 30 days using historical behavior patterns.
+
+**Approach**
+- Engineered rolling-window time-series features (spend, frequency, discounts)
+- Built a hybrid model:
+  - LSTM for sequential behavior
+  - Dense neural network for static features (age, tenure)
+- Evaluated performance using recall and business relevance
+
+**Outcome**
+- Improved early churn detection compared to static models
+- Enabled proactive retention strategies
+
+**Skills Demonstrated:**  
+`Time-Series Modeling · Deep Learning · Customer Journey Analytics`
+
+---
+
+### 3️⃣ NLP-Based Decision Support for Healthcare Records  
+**Domain:** Healthcare Analytics  
+
+
+**Problem**  
+Manual review of unstructured medical records is time-consuming and inefficient.
+
+**Approach**
+- Applied NLP techniques to extract insights from unstructured clinical text
+- Used classification and vector-based representations
+- Integrated outputs into a decision-support workflow on AWS
+
+**Outcome**
+- Reduced documentation review time by ~30%
+- Enabled faster, data-driven decisions for healthcare stakeholders
+
+**Skills Demonstrated:**  
+`NLP · Healthcare Analytics · AI Decision Support`
+
+---
+
+### 4️⃣ BI Metrics Layer & Executive Dashboard Design  
+**Domain:** Business Intelligence  
+**Inspired by:** Enterprise BI and marketing analytics work  
+
+**Problem**  
+Leadership teams need consistent, trusted metrics across departments.
+
+**Approach**
+- Designed a semantic metrics layer supporting:
+  - Sales performance
+  - Customer growth
+  - Campaign effectiveness
+- Built executive dashboards with drill-down capabilities
+- Defined governance and data quality checks
+
+**Outcome**
+- Reduced manual reporting effort
+- Improved adoption and trust in analytics outputs
+
+**Skills Demonstrated:**  
+`BI Architecture · Metrics Design · Stakeholder Enablement`
+
+---
+
+## 💼 Professional Experience
+
+<!-- 
+### Senior BI & Analytics Specialist — Strategy & Marketing Analytics  
+**Federated Co-operatives Limited (FCL), Canada** | Jan 2024 – Present  
+### Analytics Consultant (Freelance)  
+**Remote** | Apr 2023 – Nov 2023  
+### Associate Manager Analytics  
+**Acentra Health** | Apr 2022 – Mar 2023  
+### Analytics Lead  
+**Acentra Health** | Jul 2017 – Mar 2022  
+### Senior Statistical Analyst  
+**Acentra Health** | Feb 2013 – Jun 2017  
+
+## 🤝 Volunteer & Community Work
+- **Training Manager — Data for Good Saskatchewan, Canada**  
+- **Mentor & Team Member — Women in AI, Canada**  
+-->
+
+⭐ This portfolio is designed to reflect **real-world analytics leadership**, solution design, and business impact while respecting data confidentiality.
