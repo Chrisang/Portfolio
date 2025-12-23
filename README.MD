@@ -1,14 +1,15 @@
-# Christy Angeline Rajan — Analytics & AI Portfolio
+# Christy Rajan — Analytics & AI Portfolio
 
-📍 Regina, Canada  
-📧 christyrajan188@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/christy-rajan  
 
----
+<!-- 
+--📍 Regina, Canada  
+--📧 christyrajan188@gmail.com  
+--🔗 LinkedIn: https://www.linkedin.com/in/christy-rajan  
+-->
 
 ## 👋 Professional Summary
 
-Experienced data science and analytics professional with **12+ years** of expertise applying advanced analytics, machine learning, and AI to solve complex business problems across **retail, loyalty, and healthcare** domains.
+Experienced data science and analytics professional with **12+ years** of expertise applying advanced analytics, machine learning, and AI to solve complex business problems across **retail, and healthcare** domains.
 
 Over **6 years of leadership experience** delivering end-to-end analytics products, mentoring teams, and supporting strategic decision-making. Strong background in building predictive models, BI solutions, and AI-enabled decision support systems under real-world data constraints.
 
@@ -35,7 +36,7 @@ Python, R, SQL, AWS SageMaker, Teradata, Power BI, Tableau, MicroStrategy, Looke
 
 ### 1️⃣ Customer Lifetime Value (LTV) & Segmentation Framework  
 **Domain:** Retail & Loyalty Analytics  
-**Inspired by:** Strategy & Marketing Analytics work  
+
 
 **Problem**  
 Marketing teams require a scalable way to identify high-value customers and tailor offers using limited transactional history.
@@ -59,7 +60,6 @@ Marketing teams require a scalable way to identify high-value customers and tail
 
 ### 2️⃣ Churn Prediction Using Time-Series Deep Learning  
 **Domain:** Customer Retention  
-**Inspired by:** Predictive analytics and campaign impact analysis  
 
 **Problem**  
 Identify customers at risk of inactivity in the next 30 days using historical behavior patterns.
@@ -82,7 +82,7 @@ Identify customers at risk of inactivity in the next 30 days using historical be
 
 ### 3️⃣ NLP-Based Decision Support for Healthcare Records  
 **Domain:** Healthcare Analytics  
-**Inspired by:** Acentra Health analytics leadership work  
+
 
 **Problem**  
 Manual review of unstructured medical records is time-consuming and inefficient.
@@ -129,61 +129,18 @@ Leadership teams need consistent, trusted metrics across departments.
 
 ### Senior BI & Analytics Specialist — Strategy & Marketing Analytics  
 **Federated Co-operatives Limited (FCL), Canada** | Jan 2024 – Present  
-- Led segmentation, LTV, and customer analytics initiatives for B2B and B2C customers  
-- Conducted campaign impact analysis and market trend forecasting  
-- Developed metrics and visualizations supporting data-driven decisions for local co-ops  
-
----
-
 ### Analytics Consultant (Freelance)  
 **Remote** | Apr 2023 – Nov 2023  
-- Advised startups on analytics strategy and predictive modeling approaches  
-- Mentored analysts and junior data scientists on ML techniques and best practices  
-
----
-
 ### Associate Manager Analytics  
 **Acentra Health** | Apr 2022 – Mar 2023  
-- Led NLP and deep learning solutions for healthcare analytics  
-- Managed a team of ~10 members delivering analytics products on AWS  
-- Delivered predictive insights improving operational efficiency by ~25%  
-
----
-
 ### Analytics Lead  
 **Acentra Health** | Jul 2017 – Mar 2022  
-- Led ML model development for the ClaimsSure® product (Utah Medicaid)  
-- Built anomaly detection models for healthcare claims, driving ~$0.5M cost savings  
-
----
-
 ### Senior Statistical Analyst  
 **Acentra Health** | Feb 2013 – Jun 2017  
-- Developed real-time fraud detection models for Michigan Medicaid  
-- Achieved ~$5M in savings through predictive anomaly detection  
-
----
 
 ## 🤝 Volunteer & Community Work
-
+- **Training Manager — Data for Good Saskatchewan, Canada**  
 - **Mentor & Team Member — Women in AI, Canada**  
-- **Senior Data Professional — Data for Good, Regina**  
-  - GIS analysis for public libraries  
-  - Dashboard development for YWCA women’s shelters  
 
----
-
-## 🎓 Education & Certifications
-
-- **MBA Essentials** — Rotman School of Management, University of Toronto  
-- **M.S. (By Research), MIS** — IIT Madras  
-- **B.E., Electronics & Communication** — Anna University  
-
-**Certifications**
-- Google Advanced Data Analytics (2024)  
-- Generative AI: Working with Large Language Models  
-- NLP with Classification & Vector Spaces (DeepLearning.AI)
-
----
 
 ⭐ This portfolio is designed to reflect **real-world analytics leadership**, solution design, and business impact while respecting data confidentiality.
