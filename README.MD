@@ -19,16 +19,14 @@ Over **6 years of leadership experience** delivering end-to-end analytics produc
 
 ## 🧠 Core Skills
 
-- Customer Analytics (Segmentation, LTV, Churn)
 - Machine Learning & Predictive Modeling
 - Time-Series & Deep Learning
 - NLP for Unstructured Data
+- Agentic AI
 - Business Intelligence & Metrics Design
-- Experimentation & Impact Analysis
-- Analytics Leadership & Mentorship
 
 **Tools & Technologies:**  
-Python, R, SQL, AWS SageMaker, Teradata, Power BI, Tableau, MicroStrategy, Looker Studio
+Python, R, SQL, AWS SageMaker, Teradata, Power BI, MicroStrategy, Looker Studio
 
 ---
 
@@ -42,19 +40,26 @@ Python, R, SQL, AWS SageMaker, Teradata, Power BI, Tableau, MicroStrategy, Looke
 Marketing teams require a scalable way to identify high-value customers and tailor offers using limited transactional history.
 
 **Approach**
-- Built RFM-style and lifecycle-based features using monthly transaction data
-- Designed an LTV prediction framework combining:
-  - Purchase frequency
-  - Monetary value
-  - Tenure and engagement signals
-- Created customer segments aligned to business use cases (targeting, retention)
+- Designed an **advanced LTV modeling framework** using:
+  - Historical transaction behavior aggregated at monthly and daily levels
+  - Temporal features capturing purchase velocity, seasonality, and engagement decay
+  - Tenure, lifecycle stage, and behavioral stability indicators
+- Evaluated multiple predictive techniques (regression-based and machine-learning approaches) to balance:
+  - Accuracy
+  - Stability over time
+  - Business interpretability
+- Built the model to operate under **real-world constraints** such as incomplete histories and sparse customer activity
 
 **Outcome**
-- Enabled data-driven prioritization of B2B and B2C customers
-- Provided interpretable segments for campaign personalization
+- Delivered forward-looking customer value estimates used for:
+  - Offer prioritization
+  - Retention strategy design
+  - Campaign ROI assessment
+- Enabled business teams to shift from rule-based segmentation to **predictive, value-based decision-making**
+
 
 **Skills Demonstrated:**  
-`Customer Analytics · Predictive Modeling · Business Strategy`
+`Advanced Analytics · Predictive Modeling · Business Strategy`
 
 ---
 
@@ -127,6 +132,7 @@ Leadership teams need consistent, trusted metrics across departments.
 
 ## 💼 Professional Experience
 
+<!-- 
 ### Senior BI & Analytics Specialist — Strategy & Marketing Analytics  
 **Federated Co-operatives Limited (FCL), Canada** | Jan 2024 – Present  
 ### Analytics Consultant (Freelance)  
@@ -141,6 +147,6 @@ Leadership teams need consistent, trusted metrics across departments.
 ## 🤝 Volunteer & Community Work
 - **Training Manager — Data for Good Saskatchewan, Canada**  
 - **Mentor & Team Member — Women in AI, Canada**  
-
+-->
 
 ⭐ This portfolio is designed to reflect **real-world analytics leadership**, solution design, and business impact while respecting data confidentiality.
