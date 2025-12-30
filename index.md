@@ -32,54 +32,53 @@ Python, R, SQL, AWS SageMaker, Teradata, Power BI, MicroStrategy, Looker Studio
 
 ## 📊 Selected Projects
 
-### 1️⃣ Customer Lifetime Value (LTV) & Segmentation Framework  
+### 1️⃣Advanced Customer Lifetime Value (CLV) & Predictive Segmentation
 **Domain:** Retail & Loyalty Analytics  
 
 
 **Problem**  
-Marketing teams require a scalable way to identify high-value customers and tailor offers using limited transactional history.
+Enable marketing teams to identify high-value customers and personalize offers using limited transactional history, moving beyond static RFM segmentation.
 
 **Approach**
-- Designed an **advanced LTV modeling framework** using:
-  - Historical transaction behavior aggregated at monthly and daily levels
-  - Temporal features capturing purchase velocity, seasonality, and engagement decay
-  - Tenure, lifecycle stage, and behavioral stability indicators
-- Evaluated multiple predictive techniques (regression-based and machine-learning approaches) to balance:
-  - Accuracy
-  - Stability over time
-  - Business interpretability
-- Built the model to operate under **real-world constraints** such as incomplete histories and sparse customer activity
+- Built an advanced CLV modeling framework integrating:
+  - RFM-based behavioral baselines
+  - Temporal dynamics (purchase velocity, seasonality, engagement decay)
+  - Tenure, age, and behavioral stability indicators
+-Applied predictive techniques (regression and machine learning) to optimize:
+  - Accuracy of forward-looking value estimates
+  - Stability across time and sparse histories
+  - Interpretability for business adoption
+- Designed the solution to handle real-world constraints like incomplete histories, multiple locations and low-frequency customers
 
 **Outcome**
-- Delivered forward-looking customer value estimates used for:
+- Delivered predictive CLV scores and propensity-driven segments for:
   - Offer prioritization
-  - Retention strategy design
-  - Campaign ROI assessment
-- Enabled business teams to shift from rule-based segmentation to **predictive, value-based decision-making**
-
+  - Retention and loyalty strategy design
+  - Campaign ROI optimization
+- Enabled shift from rule-based RFM segmentation to predictive, value-based decision-making
 
 **Skills Demonstrated:**  
 `Advanced Analytics · Predictive Modeling · Business Strategy`
 
 ---
 
-### 2️⃣ Churn Prediction Using Time-Series Deep Learning  
+### 2️⃣ Propensity & Inactive Customer Analysis
 **Domain:** Customer Retention  
 
 **Problem**  
-Identify customers at risk of inactivity in the next 30 days using historical behavior patterns.
+Predict customers with high propensity for inactivity or churn within the next 30 days using historical behavioral and transactional patterns.
 
 **Approach**
-- Engineered rolling-window time-series features (spend, frequency, discounts)
-- Built a hybrid model:
-  - LSTM for sequential behavior
-  - Dense neural network for static features (age, tenure)
-- Evaluated performance using recall and business relevance
+- Developed rolling-window time-series features (spend, frequency, discount usage)
+- Built a hybrid deep learning model:
+  - LSTM for sequential behavioral trends
+  - Dense Neural Network for static attributes (age, tenure)
+- Incorporated propensity scoring for inactivity risk segmentation
+- Evaluated using recall and business impact metrics
 
 **Outcome**
-- Improved early churn detection compared to static models
-- Enabled proactive retention strategies
-
+- Enhanced early churn detection compared to static models
+- Enabled targeted retention campaigns and proactive engagement strategies
 **Skills Demonstrated:**  
 `Time-Series Modeling · Deep Learning · Customer Journey Analytics`
 
@@ -88,18 +87,19 @@ Identify customers at risk of inactivity in the next 30 days using historical be
 ### 3️⃣ NLP-Based Decision Support for Healthcare Records  
 **Domain:** Healthcare Analytics  
 
-
 **Problem**  
-Manual review of unstructured medical records is time-consuming and inefficient.
+Healthcare providers need a comprehensive and accurate review of diagnoses from unstructured medical records. Manual processes are slow, error-prone, and increase the risk of missed critical information.
 
 **Approach**
-- Applied NLP techniques to extract insights from unstructured clinical text
-- Used classification and vector-based representations
-- Integrated outputs into a decision-support workflow on AWS
+- Applied NLP techniques and AWS Comprehend to extract clinical entities, diagnoses, and relationships from unstructured text
+- Applied NLP techniques for classification and semantic similarity to validate diagnosis consistency
+- Integrated outputs into an AWS-based decision-support workflow, enabling scalable, secure, and automated review
+- Designed the system to minimize manual interpretation errors and improve diagnostic accuracy
 
 **Outcome**
 - Reduced documentation review time by ~30%
-- Enabled faster, data-driven decisions for healthcare stakeholders
+- Improved diagnostic accuracy and consistency by automating entity extraction and validation
+- Enabled faster, data-driven decisions for clinicians and healthcare stakeholders
 
 **Skills Demonstrated:**  
 `NLP · Healthcare Analytics · AI Decision Support`
@@ -111,19 +111,22 @@ Manual review of unstructured medical records is time-consuming and inefficient.
 **Inspired by:** Enterprise BI and marketing analytics work  
 
 **Problem**  
-Leadership teams need consistent, trusted metrics across departments.
+Leadership and stakeholder teams need consistent, trusted metrics and actionable insights across diverse domains, including customer analytics and non-profit program performance.
 
 **Approach**
 - Designed a semantic metrics layer supporting:
-  - Sales performance
-  - Customer growth
-  - Campaign effectiveness
-- Built executive dashboards with drill-down capabilities
-- Defined governance and data quality checks
+  - Sales performance and revenue trends
+  - Customer growth analytics and engagement metrics
+  - Impact and program KPIs for non-profit organizations
+- Built executive dashboards with drill-down capabilities for:
+  - Customer analytics, product analytics and retentition analytics
+  - Non-profit impact reporting
+- Established data governance and quality checks to ensure reliability and trust
 
 **Outcome**
-- Reduced manual reporting effort
-- Improved adoption and trust in analytics outputs
+- Reduced manual reporting effort across departments
+- Improved adoption and trust in analytics outputs for both commercial and non-profit stakeholders
+- Enabled leadership to make data-driven strategic decisions with unified, transparent metrics
 
 **Skills Demonstrated:**  
 `BI Architecture · Metrics Design · Stakeholder Enablement`
