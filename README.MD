@@ -137,9 +137,9 @@ Leadership teams need consistent, trusted metrics across departments.
 Claims operations teams struggled to identify unusual or potentially erroneous claim patterns in real time. This led to increased manual review cycles, delayed payments, and inconsistent application of fraud/quality rules in Medicaid and Medicare.
 
 **Approach**
---Engineered an anomaly detection pipeline using historical claims behavior, provider patterns, and cost/utilization benchmarks.
---Developed Real time prediction models that identifies anomalous claims under different categories (Overutiliation, Inpatient etc.)
---Operationalized the model within the ClaimsSure analytics layer, exposing:
+- Engineered an anomaly detection pipeline using historical claims behavior, provider patterns, and cost/utilization benchmarks.
+- Developed Real time prediction models that identifies anomalous claims under different categories (Overutiliation, Inpatient etc.)
+- Operationalized the model within the ClaimsSure analytics layer, exposing:
   - High‑risk claims alerts
   - Provider anomaly profiles
   - Trend deviations by claim type and diagnosis
