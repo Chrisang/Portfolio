@@ -105,9 +105,8 @@ Manual review of unstructured medical records is time-consuming and inefficient.
 `NLP · Healthcare Analytics · AI Decision Support`
 
 ---
-### 3️⃣ NLP-Based Decision Support for Healthcare Records  
+### 3️⃣ Decision Support BI Dashboard
 **Domain:** Business Intelligence  
-**Inspired by:** Enterprise BI and marketing analytics work  
 
 **Problem**  
 Leadership teams need consistent, trusted metrics across departments.
@@ -125,7 +124,7 @@ Leadership teams need consistent, trusted metrics across departments.
 - Improved adoption and trust in analytics outputs
 
 **Skills Demonstrated:**  
-`Claims Processing · Anamoly Detection · Fraud detection Prediction Models · ML Algorithms `
+`Business Intelligence Reporting ·Strategy· Decision Support · Advanced Analytics `
 ---
 ### 4️⃣ Anomaly Detection in Claims Processing  
 **Domain:** Healthcare Analytics
@@ -150,7 +149,7 @@ Created interactive dashboards with guided investigation paths for adjudicators 
 - Enabled faster decision‑making with standardized, trusted intelligence embedded in workflows.
 
 **Skills Demonstrated:**  
-Anomaly Detection · Healthcare Data Modeling · Predictive Modeling · Feature Engineering · Dashboard Design · Cross‑Functional Collaboration
+`Anomaly Detection · Healthcare Data Modeling · Predictive Modeling · Feature Engineering · Dashboard Design · Cross‑Functional Collaboration`
 
 ---
 <!-- 
