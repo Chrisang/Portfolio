@@ -125,7 +125,9 @@ Leadership teams need consistent, trusted metrics across departments.
 - Improved adoption and trust in analytics outputs
 
 **Skills Demonstrated:**  
-` Business Intelligence Reporting · Strategy · Decision Support · Advanced Analytics`
+`Business Intelligence Reporting · Strategy · Decision Support · Advanced Analytics`
+
+
 ---
 ### 4️⃣ Anomaly Detection in Claims Processing  
 **Domain:** Healthcare Analytics
