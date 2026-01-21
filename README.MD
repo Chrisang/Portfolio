@@ -147,6 +147,7 @@ Leadership teams need consistent, trusted metrics across departments.
 ## 🤝 Volunteer & Community Work
 - **Training Manager — Data for Good Saskatchewan, Canada**  
 - **Mentor & Team Member — Women in AI, Canada**  
--->
+
 
 ⭐ This portfolio is designed to reflect **real-world analytics leadership**, solution design, and business impact while respecting data confidentiality.
+-->
