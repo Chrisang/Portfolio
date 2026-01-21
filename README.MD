@@ -13,8 +13,9 @@ Experienced data science and analytics professional with **12+ years** of expert
 
 Over **6 years of leadership experience** delivering end-to-end analytics products, mentoring teams, and supporting strategic decision-making. Strong background in building predictive models, BI solutions, and AI-enabled decision support systems under real-world data constraints.
 
+<!--
 > ⚠️ Due to confidentiality agreements, all projects presented here use anonymized, synthetic, or public datasets. The **business problems, analytical approaches, and solution designs closely reflect real production work**.
-
+-->
 ---
 
 ## 🧠 Core Skills
