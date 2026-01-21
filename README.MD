@@ -105,8 +105,7 @@ Manual review of unstructured medical records is time-consuming and inefficient.
 `NLP · Healthcare Analytics · AI Decision Support`
 
 ---
-
-### 4️⃣ BI Metrics Layer & Executive Dashboard Design  
+### 3️⃣ NLP-Based Decision Support for Healthcare Records  
 **Domain:** Business Intelligence  
 **Inspired by:** Enterprise BI and marketing analytics work  
 
@@ -126,13 +125,38 @@ Leadership teams need consistent, trusted metrics across departments.
 - Improved adoption and trust in analytics outputs
 
 **Skills Demonstrated:**  
-`BI Architecture · Metrics Design · Stakeholder Enablement`
+`Claims Processing · Anamoly Detection · Fraud detection Prediction Models · ML Algorithms `
+---
+### 4️⃣ Anomaly Detection in Claims Processing  
+**Domain:** Healthcare Analytics
+**Product** ClaimsSure
+
+**Problem**  
+Claims operations teams struggled to identify unusual or potentially erroneous claim patterns in real time. This led to increased manual review cycles, delayed payments, and inconsistent application of fraud/quality rules in Medicaid and Medicare.
+
+**Approach**
+--Engineered an anomaly detection pipeline using historical claims behavior, provider patterns, and cost/utilization benchmarks.
+--Developed Real time prediction models that identifies anomalous claims under different categories (Overutiliation, Inpatient etc.)
+--Operationalized the model within the ClaimsSure analytics layer, exposing:
+  - High‑risk claims alerts
+  - Provider anomaly profiles
+  - Trend deviations by claim type and diagnosis
+
+Created interactive dashboards with guided investigation paths for adjudicators and quality teams.
+
+**Outcome**
+- Reduced manual investigation time by surfacing prioritized anomalies.
+- Improved claim processing accuracy and fraud detection consistency across business units.
+- Enabled faster decision‑making with standardized, trusted intelligence embedded in workflows.
+
+**Skills Demonstrated:**  
+Anomaly Detection · Healthcare Data Modeling · Predictive Modeling · Feature Engineering · Dashboard Design · Cross‑Functional Collaboration
 
 ---
-
+<!-- 
 ## 💼 Professional Experience
 
-<!-- 
+
 ### Senior BI & Analytics Specialist — Strategy & Marketing Analytics  
 **Federated Co-operatives Limited (FCL), Canada** | Jan 2024 – Present  
 ### Analytics Consultant (Freelance)  
