@@ -7,7 +7,7 @@
 --🔗 LinkedIn: https://www.linkedin.com/in/christy-rajan  
 -->
 
-## 👋 Professional Summary
+## Professional Summary
 
 Experienced data science and analytics professional with **12+ years** of expertise applying advanced analytics, machine learning, and AI to solve complex business problems across **retail, and healthcare** domains.
 
@@ -31,7 +31,7 @@ Python, R, SQL, AWS SageMaker, Teradata, Power BI, MicroStrategy, Looker Studio
 
 ---
 
-## 📊 Selected Projects
+## 📊 Sample Selected Projects
 
 ### 1️⃣ Customer Lifetime Value (LTV) & Segmentation Framework  
 **Domain:** Retail & Loyalty Analytics  
